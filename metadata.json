@@ -1,0 +1,15 @@
+{
+  "name": "shashi-ssh",
+  "version": "0.1.0",
+  "author": "shashi",
+  "summary": "this is ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/devopstest6022/puppetssh.git",
+  "project_page": "https://github.com/devopstest6022/puppetssh",
+  "issues_url": "https://github.com/devopstest6022/puppetssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
